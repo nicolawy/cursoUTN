@@ -1,0 +1,13 @@
+h1{color: blue;
+text-transform: uppercase;}
+
+h3{color: red;
+font-style: italic
+;font-weight: bold;}
+
+h4{color: rgb(8, 70, 16);
+font-style: normal;
+font-weight: bolder;}
+
+ul{color: violet;}
+ol{color:purple;}
