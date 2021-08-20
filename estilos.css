@@ -11,3 +11,35 @@ font-weight: bolder;}
 
 ul{color: violet;}
 ol{color:purple;}
+
+.azul{
+
+    width: 50%;
+    height: 200px;
+    background: rgb(116, 116, 143);
+    color: oldlace;
+    column-count: 2;
+    border: 5px solid purple;
+}
+
+.amarillo{
+
+    width: 50%;
+    height: 200px;
+    background: rgb(184, 88, 163);
+    border-radius: 5px 10px 15px 20px;
+    box-shadow: 0 0 15px black;
+    
+    
+}
+/* font-family: 'Anton', sans-serif;
+font-family: 'Nunito', sans-serif */
+
+h1{
+    font-family: 'Nunito', sans-serif
+}
+.caja{
+    color: red;
+    font-size: 150px;
+
+} 
