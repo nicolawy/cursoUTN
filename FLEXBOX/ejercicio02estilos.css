@@ -1,0 +1,48 @@
+.contenedor {
+    width: 40%;
+    height: 500px;
+ background-color: white; 
+ border: solid;
+ border-color: black;
+ display: flex; 
+ flex-direction: row-reverse; 
+ align-content: center;
+ 
+ justify-content: center;
+ margin-left: 25%;
+ flex-wrap: wrap-reverse;
+ 
+ 
+ 
+ 
+}
+
+.item1 {
+    background-color: red;
+    width: 33%;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+    color: white;
+}
+
+.item2 {
+    background-color: blue;
+    width: 33%;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+    color: white;
+}
+
+.item3 {
+    background-color:green;
+    width: 33%;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+    color: white;
+}
